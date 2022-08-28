@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  اقرأ
+//  read
 //
-//  Created by mac book on 28/01/1444 AH.
+//  Created by Ahmed Salah on 27/08/2022.
 //
 
 import UIKit
